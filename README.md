@@ -31,7 +31,7 @@ Hi there! My name is Bohdan and I am a passionate iOS developer with three years
 
 #### Education:
 
-- Bachelor's degree in Mobile Engineering from Bloom Institute of Technology
+- Degree in Mobile Engineering from Bloom Institute of Technology
 
 ##### Stack:
 
