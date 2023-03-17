@@ -4,9 +4,7 @@
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Bohdan. I'm a 28-year-old fallow iOS developer from Ukraine, and currently reside in Chicago, USA. I just finished a Full Stack Developer Program at [Lambda](https://lambdaschool.com), and I'm looking for open-source projects to contribute to and people to collaborate with! I love creating and tinkering with small, Networking, or playing with different framworks, but maintaining SOLID method. 
-
-I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:tech.bohdan@gmail.com) if that sounds like your cup of coffee. :coffee:
+Hi there! I'm Bohdan, an iOS developer with three years of experience in building top-quality applications. I'm passionate about creating clean, efficient code and utilizing the latest technologies to deliver a seamless user experience.
 
 ## Technologies I'm Learning :books:
 
