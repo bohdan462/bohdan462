@@ -26,7 +26,6 @@ Hi there! My name is Bohdan and I am a passionate iOS developer with three years
 ### Skills:
 
 - Proficient in working with APIs and integrating third-party frameworks such as Alamofire, Firebase, and Google Maps
-- Skilled in utilizing AI in mobile applications by integrating machine learning models
 - Experienced in working with SwiftUI to create intuitive and user-friendly interfaces
 - Strong foundation in software engineering principles, including modularity and maintainability
 - Familiarity with software design patterns like MVC, MVVM, and Coordinator
