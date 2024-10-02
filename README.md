@@ -1,12 +1,10 @@
-<h1 align="center">Welcome to My GitHub</h1>
+# 👾 Mobile-First Full-Stack Developer & ML Enthusiast
 
-Hi, I'm Bohdan, an iOS Engineer focused on building **scalable**, **modular**, and **high-performance** mobile applications. I apply **best engineering practices** such as **SOLID principles** and **separation of concerns** to create clean, maintainable systems.
+Hey, I’m a **mobile-first full-stack dev** who loves messing with iOS, web apps, and sprinkling in some **machine learning** magic. If it’s tech, I’m probably nerding out on it. 😎
 
-### Key Expertise:
-- **Scalable Architecture**: Designing modular, extensible systems for maintainability and performance.
-- **Concurrency & Performance**: Proficient with **GCD** and **async/await** to manage asynchronous tasks efficiently.
-- **Data & Networking**: Expertise in **RESTful API integration**, **SwiftData**, **Core Data**, and custom caching strategies.
-- **UI/UX**: Crafting responsive interfaces with **SwiftUI**, **UIKit**, and **Core Animation**.
-  
-### ML & AI Integration:
-- Integrating **open-source models** via **Hugging Face** and **AWS** to bring AI to mobile apps.
+## A Few Things About Me:
+- **Nerd?** Absolutely.
+- **Edge cases?** Yeah, I’m the type to push things *just to see what breaks*.
+- **Picky?** Oh, you bet. If it’s not running like butter, I’m not done.
+
+Code, tweak, break, fix, repeat. Welcome to my world. 🚀
