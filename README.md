@@ -1,4 +1,4 @@
-# 👾 Mobile-First Full-Stack Developer & ML Enthusiast
+# 👾 Mobile-First Full-Stack Developer & ML 
 
 Hey, I’m a **mobile-first full-stack dev** who loves messing with iOS, web apps, and sprinkling in some **machine learning** magic. If it’s tech, I’m probably nerding out on it. 😎
 
